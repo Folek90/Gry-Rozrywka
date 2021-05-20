@@ -110,4 +110,3 @@ class Game:
 
 game = Game()
 game.play_game()
-
